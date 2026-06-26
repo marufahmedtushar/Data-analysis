@@ -18,16 +18,6 @@ Excel
 
 Python
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Statistics
-
 Data Cleaning
 
 Data Visualization
@@ -40,28 +30,52 @@ Dashboard Design
 
 Tools
 
-Excel
+-Excel
 
-Power BI
+-Power BI
 
-DAX
+-DAX
 
 Features
 
-Accident Trends
+-Accident Trends
 
-Severity Analysis
+-Severity Analysis
 
-Weather Analysis
+-Weather Analysis
 
-Casualties
+-Casualties
 
-Road Type Analysis
+-Road Type Analysis
 
-Dashboard
+Dashboard(Image):
+<img width="706" height="397" alt="accident 1" src="https://github.com/user-attachments/assets/ebd6f6eb-68fd-4552-b8a1-8267db9c7416" />
 
-(Image)
+[See Details]()
 
+☕ Coffe Shop Dashboard
+
+Tools
+
+-Excel
+
+-Power BI
+
+Features
+
+-Sales Dashboard
+
+-Product Performance
+
+-Pastry Sales
+
+-Customers Insights
+
+-Outlet Insights
+
+Dashboard(Image):<img width="706" height="397" alt="accident 1" src="https://github.com/user-attachments/assets/10d4b189-d414-4ead-8310-6ba6b2d56110" />
+
+[See Details]()
 
 📄 **Resume**
 
