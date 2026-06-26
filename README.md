@@ -1,5 +1,7 @@
 👋 Hi, I'm **Md. Maruf Ahamed Tushar**
+
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
+
 📌 **About Me**
 
 I'm a passionate Data Analyst focused on transforming raw data into actionable business insights through analysis, visualization, and storytelling.
@@ -7,6 +9,7 @@ I'm a passionate Data Analyst focused on transforming raw data into actionable b
 I enjoy solving business problems using SQL, Excel, Python, and Power BI.
 
 🛠 **Skills**
+
 SQL
 Power BI
 Excel
@@ -22,6 +25,7 @@ Dashboard Design
 Business Intelligence
 
 **Featured Projects**
+
 🚗 Road Accident Dashboard
 
 Tools
@@ -53,7 +57,4 @@ LinkedIn: [Md. Maruf Ahamed Tushar](https://www.linkedin.com/in/md-maruf-ahamed-
 
 GitHub: [Md. Maruf Ahamed Tushar]()
 
-Gmail: [Md. Maruf Ahamed Tushar](marufahamedtushar@gmail.com)
-Email
-
-Portfolio Website
+Email: [Md. Maruf Ahamed Tushar](marufahamedtushar@gmail.com)
