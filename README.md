@@ -11,18 +11,28 @@ I enjoy solving business problems using SQL, Excel, Python, and Power BI.
 🛠 **Skills**
 
 SQL
+
 Power BI
+
 Excel
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Statistics
+
 Data Cleaning
+
 Data Visualization
+
 Dashboard Design
-Business Intelligence
 
 **Featured Projects**
 
@@ -31,15 +41,21 @@ Business Intelligence
 Tools
 
 Excel
+
 Power BI
+
 DAX
 
 Features
 
 Accident Trends
+
 Severity Analysis
+
 Weather Analysis
+
 Casualties
+
 Road Type Analysis
 
 Dashboard
