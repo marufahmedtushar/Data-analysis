@@ -49,6 +49,7 @@ Features
 -Road Type Analysis
 
 Dashboard(Image):
+
 <img width="706" height="397" alt="accident 1" src="https://github.com/user-attachments/assets/ebd6f6eb-68fd-4552-b8a1-8267db9c7416" />
 
 [See Details]()
@@ -73,7 +74,9 @@ Features
 
 -Outlet Insights
 
-Dashboard(Image):<img width="706" height="397" alt="accident 1" src="https://github.com/user-attachments/assets/10d4b189-d414-4ead-8310-6ba6b2d56110" />
+Dashboard(Image):
+
+<img width="712" height="399" alt="coffe 1" src="https://github.com/user-attachments/assets/300f7d74-aee7-49e3-aa7b-fc73a6c194d6" />
 
 [See Details]()
 
