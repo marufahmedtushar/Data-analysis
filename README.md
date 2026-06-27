@@ -102,7 +102,7 @@ Dashboard(Image):
 
 <img width="1920" height="1656" alt="Rx dashboard" src="https://github.com/user-attachments/assets/2e34e0a8-7d79-44d4-9391-4588d32cad75" />
 
-[See Details]()
+[See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard/edit/main/README.md)
 
 📄 **Resume**
 
