@@ -100,7 +100,8 @@ Features
 
 Dashboard(Image):
 
-<img width="1920" height="1656" alt="Rx dashboard" src="https://github.com/user-attachments/assets/2e34e0a8-7d79-44d4-9391-4588d32cad75" />
+<img width="1920" height="1592" alt="Rx dashboard" src="https://github.com/user-attachments/assets/8d4551e6-9533-4a54-86f9-e67f1e561b3c" />
+
 
 [See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard/edit/main/README.md)
 
