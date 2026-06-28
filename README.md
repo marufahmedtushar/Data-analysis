@@ -103,16 +103,13 @@ Dashboard(Image):
 <img width="1920" height="1592" alt="Rx dashboard" src="https://github.com/user-attachments/assets/8d4551e6-9533-4a54-86f9-e67f1e561b3c" />
 
 
-[See Details](https://github.com/marufahmedtushar/Coffee-Shop-Dashboard/edit/main/README.md)
+[See Details]()
 
-📄 **Resume**
-
-[Download Resume]()
 
 📫 **Connect With Me**
 
 LinkedIn: [Md. Maruf Ahamed Tushar](https://www.linkedin.com/in/md-maruf-ahamed-tushar/)
 
-GitHub: [Md. Maruf Ahamed Tushar]()
+GitHub: [Md. Maruf Ahamed Tushar](https://github.com/marufahmedtushar)
 
 Email: [Md. Maruf Ahamed Tushar](marufahamedtushar@gmail.com)
