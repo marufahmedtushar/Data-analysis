@@ -103,7 +103,7 @@ Dashboard(Image):
 <img width="1920" height="1592" alt="Rx dashboard" src="https://github.com/user-attachments/assets/8d4551e6-9533-4a54-86f9-e67f1e561b3c" />
 
 
-[See Details]()
+[See Details](https://github.com/marufahmedtushar/Rx-Data-Collector/blob/main/README.md)
 
 
 📫 **Connect With Me**
